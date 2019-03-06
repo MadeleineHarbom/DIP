@@ -62,8 +62,16 @@ function addButton() {
     let bt = document.createElement("button");
     bt.innerHTML = "Hej";
     document.body.appendChild(bt);
+    bt.addEventListener('click', btnFunctin)
 }
 
 function btnFunctin() {
+    let theUL = document.querySelector("ul");
+    if (theUL.hidden == true) {
+        theUL.hidden = false;
+    }
+    else {
+        theUL.hidden = true;
+    }
 
 }

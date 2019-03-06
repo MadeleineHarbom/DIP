@@ -12,7 +12,7 @@ console.log(Person.antal); // => 1
 console.log(person.toString()); // => NN
 
 console.log(person.constructor === Person); // => true
-console.log(person.constructor); // => { [Function: Person] antal: 1 }
+console.log(person.constructor); // => { [Function: Dog] antal: 1 }
 console.log(person.toString.toString());
 //  =>  function () {
 //          return this.navn;

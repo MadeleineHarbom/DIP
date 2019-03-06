@@ -1,7 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48f9cf0e-32d1-49a5-905a-2d6ca08b5289" name="Default" comment="" />
+    <list default="true" id="48f9cf0e-32d1-49a5-905a-2d6ca08b5289" name="Default" comment="27 feb">
+      <change afterPath="$PROJECT_DIR$/Lektion1/eksempel/boolsk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion1/eksempel/bubbleSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion1/eksempel/const.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion1/eksempel/falsy-truthy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion1/eksempel/let.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion1/eksempel/lighed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion1/eksempel/number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion1/eksempel/omgivelse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion1/eksempel/semikolon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion1/eksempel/string.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion1/eksempel/typekonvertering.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion1/eksempel/typeof.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion1/eksempel/var.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lektion10 NOT DONE/Opgave10_4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion1/Udleveret_BubbleSort.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion10 NOT DONE/Opgave10_3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion10 NOT DONE/Opgave10_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion10 NOT DONE/Opgave10_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion10 NOT DONE/constructor_eksempel/person.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion10 NOT DONE/constructor_eksempel/person.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/css_eksempel/borders.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/css_eksempel/borders.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/css_eksempel/borders.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/css_eksempel/borders.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/css_eksempel/cascade.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/css_eksempel/cascade.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/css_eksempel/cascade.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/css_eksempel/cascade.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/css_eksempel/example.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/css_eksempel/example.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/css_eksempel/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/css_eksempel/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/css_eksempel/font-family.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/css_eksempel/font-family.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/css_eksempel/font-family.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/css_eksempel/font-family.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/css_eksempel/grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/css_eksempel/grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/css_eksempel/grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/css_eksempel/grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/css_eksempel/selectors.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/css_eksempel/selectors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/css_eksempel/selectors.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/css_eksempel/selectors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/css_eksempel/tables.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/css_eksempel/tables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/css_eksempel/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/css_eksempel/tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/html_eksempel/afsnit.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/html_eksempel/afsnit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/html_eksempel/block og inline.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/html_eksempel/block og inline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/html_eksempel/character entities.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/html_eksempel/character entities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/html_eksempel/favicon.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/html_eksempel/favicon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/html_eksempel/hierarki.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/html_eksempel/hierarki.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/html_eksempel/link og image.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/html_eksempel/link og image.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/html_eksempel/lister.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/html_eksempel/lister.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/html_eksempel/overskrifter.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/html_eksempel/overskrifter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/html_eksempel/simpel.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/html_eksempel/simpel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/html_eksempel/struktur.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/html_eksempel/struktur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/html_eksempel/struktur5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/html_eksempel/struktur5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion3/html_eksempel/tabeller.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion3/html_eksempel/tabeller.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion5 NOT DONE/Opgave5_1_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion5/Opgave5_1_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion5 NOT DONE/Opgave5_1_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion5/Opgave5_1_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion5 NOT DONE/Opgave5_1_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion5/Opgave5_1_3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion5 NOT DONE/Opgave5_1_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion5/Opgave5_1_4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion5 NOT DONE/Opgave5_1_5.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion5/Opgave5_1_5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion5 NOT DONE/Opgave5_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion5/Opgave5_2_NOTDONE.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion5 NOT DONE/events_eksempel/langvarig.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion5/events_eksempel/langvarig.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion5 NOT DONE/events_eksempel/langvarig.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion5/events_eksempel/langvarig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion5 NOT DONE/events_eksempel/langvarig2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion5/events_eksempel/langvarig2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion5 NOT DONE/events_eksempel/langvarig2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion5/events_eksempel/langvarig2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion5 NOT DONE/events_eksempel/ur.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion5/events_eksempel/ur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion5 NOT DONE/events_eksempel/ur.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion5/events_eksempel/ur.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion5 NOT DONE/form_elements_eksempel/formElements.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion5/form_elements_eksempel/formElements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion5 NOT DONE/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion5/template.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion5 NOT DONE/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion5/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/abstraktion.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/abstraktion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/callback.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/callback.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/chaining.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/chaining.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/filter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/find.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/find.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/foreach.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/foreach.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/noisy.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/noisy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/reduce.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/reduce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/repeat.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/repeat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/sort.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,20 +85,70 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Opgave3_3.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lektion3 - NOT DONE/Opgave3_3.css">
+      <file leaf-file-name="Opgave10_3.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lektion10 NOT DONE/Opgave10_3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="49" column="18" lean-forward="true" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+            <state relative-caret-position="4">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Opgave3_3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lektion3 - NOT DONE/Opgave3_3.html">
+      <file leaf-file-name="Opgave10_4.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lektion10 NOT DONE/Opgave10_4.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="66" column="50" selection-start-line="66" selection-start-column="50" selection-end-line="66" selection-end-column="50" />
+            <state relative-caret-position="22">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Opgave5_1_1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lektion5/Opgave5_1_1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Opgave5_2_NOTDONE.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lektion5/Opgave5_2_NOTDONE.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="76" column="1" lean-forward="true" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lektion5/template.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lektion5/template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13">
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lektion10 NOT DONE/prototyper_eksempel/function.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Opgave10_2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lektion10 NOT DONE/Opgave10_2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -39,24 +160,17 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="TypeScript File" />
         <option value="JavaScript File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lektion1/Test'.js" />
-        <option value="$PROJECT_DIR$/Lektion1/Test.js" />
-        <option value="$PROJECT_DIR$/Lektion1/Opgave1_2.js" />
-        <option value="$PROJECT_DIR$/Lektion1/Udleveret_BubbleSort.js" />
-        <option value="$PROJECT_DIR$/Lektion1/Opgave1_3.js" />
-        <option value="$PROJECT_DIR$/Lektion1/Opgave1_4.js" />
-        <option value="$PROJECT_DIR$/Lektion1/Opgave1_5.js" />
-        <option value="$PROJECT_DIR$/Lektion2/Opgave2_1.js" />
-        <option value="$PROJECT_DIR$/Lektion2/Opgave2_2.js" />
-        <option value="$PROJECT_DIR$/Lektion2/Opgave2_3.js" />
-        <option value="$PROJECT_DIR$/Lektion3/html_eksempel/Opgave3_1.css" />
         <option value="$PROJECT_DIR$/Lektion3/Opgave3_1.html" />
         <option value="$PROJECT_DIR$/Lektion3/Opgave3_3.html" />
         <option value="$PROJECT_DIR$/Lektion3/Opgave3_1.css" />
@@ -81,6 +195,33 @@
         <option value="$PROJECT_DIR$/Lektion2 - NOT DONE/Opgave2_7.js" />
         <option value="$PROJECT_DIR$/Lektion3 - NOT DONE/Opgave3_3.html" />
         <option value="$PROJECT_DIR$/Lektion3 - NOT DONE/Opgave3_3.css" />
+        <option value="$PROJECT_DIR$/Lektion5/events_eksempel/ur.html" />
+        <option value="$PROJECT_DIR$/Lektion5/events_eksempel/ur.js" />
+        <option value="$PROJECT_DIR$/Lektion5/events_eksempel/langvarig2.js" />
+        <option value="$PROJECT_DIR$/Lektion5/Opgave5_1.js" />
+        <option value="$PROJECT_DIR$/Lektion5/Opgave5_3.js" />
+        <option value="$PROJECT_DIR$/Lektion5/Opgave5_4.js" />
+        <option value="$PROJECT_DIR$/Lektion5/Opgave5_5.js" />
+        <option value="$PROJECT_DIR$/Lektion5/template.html" />
+        <option value="$PROJECT_DIR$/Lektion5/Opgave5_2.js" />
+        <option value="$PROJECT_DIR$/Lektion2/Opgave2_4.ts" />
+        <option value="$PROJECT_DIR$/Lektion2/Opgave2_4.js" />
+        <option value="$PROJECT_DIR$/Lektion8 NOT DONE/Opgave8_5_NOTDONE.ts" />
+        <option value="$PROJECT_DIR$/Lektion2 NOT DONE 2_4/Opgave2_4_NOTDONE.js" />
+        <option value="$PROJECT_DIR$/Lektion2 NOT DONE 2_4/Opgave2_4.js" />
+        <option value="$PROJECT_DIR$/Lektion8 NOT DONE/hoejereOrdenFunktioner_eksempel/filter.js" />
+        <option value="$PROJECT_DIR$/Lektion8 NOT DONE/Opgave8_1_NOTDONE.js" />
+        <option value="$PROJECT_DIR$/Lektion8 NOT DONE/Opgave8_2_NOTDONE.js" />
+        <option value="$PROJECT_DIR$/Lektion8 NOT DONE/Opgave8_3.js" />
+        <option value="$PROJECT_DIR$/Lektion8 NOT DONE/Opgave8_4.js" />
+        <option value="$PROJECT_DIR$/Lektion8 NOT DONE/Opgave8_5_NOTDONE.js" />
+        <option value="$PROJECT_DIR$/Lektion10 NOT DONE/Opgave10_1.js" />
+        <option value="$PROJECT_DIR$/Lektion10 NOT DONE/Opgave10_2.js" />
+        <option value="$PROJECT_DIR$/Lektion10 NOT DONE/Opgave10_3.js" />
+        <option value="$PROJECT_DIR$/Lektion10 NOT DONE/Opgave10_4.js" />
+        <option value="$PROJECT_DIR$/Lektion5 NOT DONE/template.html" />
+        <option value="$PROJECT_DIR$/Lektion5 NOT DONE/template.css" />
+        <option value="$PROJECT_DIR$/Lektion5 NOT DONE/Opgave5_2_NOTDONE.js" />
       </list>
     </option>
   </component>
@@ -100,15 +241,18 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
+    <option name="x" value="50" />
+    <option name="y" value="48" />
+    <option name="width" value="1326" />
     <option name="height" value="960" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,18 +263,22 @@
             <path>
               <item name="DIP" type="b2602c69:ProjectViewProjectNode" />
               <item name="DIP" type="462c0819:PsiDirectoryNode" />
-              <item name="Lektion2 - NOT DONE" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion8 NOT DONE" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DIP" type="b2602c69:ProjectViewProjectNode" />
               <item name="DIP" type="462c0819:PsiDirectoryNode" />
-              <item name="Lektion3 - NOT DONE" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion9 NOT DONE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DIP" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion10 NOT DONE" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,16 +292,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Lektion4 - NOT DONE" />
-      <recent name="$PROJECT_DIR$/Lektion3/html_eksempel" />
-      <recent name="$PROJECT_DIR$/Lektion3/css_eksempel" />
+      <recent name="$PROJECT_DIR$/Lektion8" />
+      <recent name="$PROJECT_DIR$/Lektion8/hoejereOrdenFunktioner_eksempel" />
+      <recent name="$PROJECT_DIR$/Lektion5/form_elements_eksempel" />
+      <recent name="$PROJECT_DIR$/Lektion5/events_eksempel" />
+      <recent name="$PROJECT_DIR$/Lektion5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lektion1/eksempel" />
+      <recent name="$PROJECT_DIR$/Lektion10 NOT DONE/constructor_eksempel" />
+      <recent name="$PROJECT_DIR$/Lektion10 NOT DONE/prototyper_eksempel" />
+      <recent name="$PROJECT_DIR$/Lektion9 NOT DONE/regex_eksempel" />
       <recent name="$PROJECT_DIR$/Lektion4 - NOT DONE/dom_eksempel" />
-      <recent name="$PROJECT_DIR$/Lektion4 - NOT DONE" />
-      <recent name="$PROJECT_DIR$/Lektion2 - NOT DONE/array_eksempel" />
-      <recent name="$PROJECT_DIR$/Lektion2 - NOT DONE/objekter_eksempel" />
-      <recent name="$PROJECT_DIR$/Lektion2 - NOT DONE/funktion_eksempel" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -168,26 +318,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Opgave3_3.html">
-    <configuration name="Opgave3_3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DIP/Lektion3 - NOT DONE/Opgave3_3.html" />
-    <configuration name="Opgave2_1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Opgave2_1.js" working-dir="$PROJECT_DIR$/Lektion2 - NOT DONE" />
-    <configuration name="Opgave2_5.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Opgave2_5.js" working-dir="$PROJECT_DIR$/Lektion2 - NOT DONE" />
-    <configuration name="Opgave2_6.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Opgave2_6.js" working-dir="$PROJECT_DIR$/Lektion2 - NOT DONE" />
-    <configuration name="Opgave2_7.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Opgave2_7.js" working-dir="$PROJECT_DIR$/Lektion2 - NOT DONE" />
+  <component name="RunManager" selected="JavaScript Debug.template.html">
+    <configuration name="template.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DIP/Lektion5 NOT DONE/template.html" />
+    <configuration name="Opgave10_1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Opgave10_1.js" working-dir="$PROJECT_DIR$/Lektion10 NOT DONE" />
+    <configuration name="Opgave10_2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Opgave10_2.js" working-dir="$PROJECT_DIR$/Lektion10 NOT DONE" />
+    <configuration name="Opgave10_3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Opgave10_3.js" working-dir="$PROJECT_DIR$/Lektion10 NOT DONE" />
+    <configuration name="Opgave8_3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Opgave8_3.js" working-dir="$PROJECT_DIR$/Lektion8 NOT DONE" />
     <list>
-      <item itemvalue="Node.js.Opgave2_5.js" />
-      <item itemvalue="Node.js.Opgave2_6.js" />
-      <item itemvalue="Node.js.Opgave2_1.js" />
-      <item itemvalue="Node.js.Opgave2_7.js" />
-      <item itemvalue="JavaScript Debug.Opgave3_3.html" />
+      <item itemvalue="Node.js.Opgave8_3.js" />
+      <item itemvalue="Node.js.Opgave10_1.js" />
+      <item itemvalue="Node.js.Opgave10_2.js" />
+      <item itemvalue="Node.js.Opgave10_3.js" />
+      <item itemvalue="JavaScript Debug.template.html" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.Opgave3_3.html" />
-        <item itemvalue="Node.js.Opgave2_7.js" />
-        <item itemvalue="Node.js.Opgave2_6.js" />
-        <item itemvalue="Node.js.Opgave2_1.js" />
-        <item itemvalue="Node.js.Opgave2_5.js" />
+        <item itemvalue="JavaScript Debug.template.html" />
+        <item itemvalue="Node.js.Opgave10_3.js" />
+        <item itemvalue="Node.js.Opgave10_2.js" />
+        <item itemvalue="Node.js.Opgave10_1.js" />
+        <item itemvalue="Node.js.Opgave8_3.js" />
       </list>
     </recent_temporary>
   </component>
@@ -212,33 +362,83 @@
       <workItem from="1550048180460" duration="668000" />
       <workItem from="1550048933903" duration="6013000" />
       <workItem from="1550497153685" duration="2095000" />
-      <workItem from="1550587422750" duration="16621000" />
+      <workItem from="1550587422750" duration="16819000" />
+      <workItem from="1550769822584" duration="1047000" />
+      <workItem from="1550771288976" duration="2268000" />
+      <workItem from="1550819293676" duration="17000" />
+      <workItem from="1550828898041" duration="55000" />
+      <workItem from="1550828982633" duration="17000" />
+      <workItem from="1550829541892" duration="6000" />
+      <workItem from="1550835497210" duration="40000" />
+      <workItem from="1550835562011" duration="3000" />
+      <workItem from="1550874316132" duration="215000" />
+      <workItem from="1551257230347" duration="628000" />
+      <workItem from="1551261333661" duration="1147000" />
+      <workItem from="1551262875190" duration="410000" />
+      <workItem from="1551296889915" duration="193000" />
+      <workItem from="1551358836327" duration="740000" />
+      <workItem from="1551362878350" duration="922000" />
+      <workItem from="1551386440710" duration="3224000" />
+      <workItem from="1551699858220" duration="4181000" />
+      <workItem from="1551864573043" duration="6910000" />
     </task>
+    <task id="LOCAL-00001" summary="27 feb">
+      <created>1551262647434</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551262647434</updated>
+    </task>
+    <task id="LOCAL-00002" summary="27 feb again">
+      <created>1551262770504</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551262770504</updated>
+    </task>
+    <task id="LOCAL-00003" summary="6 Mar">
+      <created>1551873335671</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551873335671</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39259000" />
+    <option name="totallyTimeSpent" value="61480000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="960" extended-state="0" />
+    <frame x="50" y="48" width="1326" height="960" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16934866" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32908458" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295711" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32908458" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32908458" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32908458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3295711" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32908458" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39954853" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986095" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +446,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="27 feb" />
+    <MESSAGE value="27 feb again" />
+    <MESSAGE value="6 Mar" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 Mar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -260,17 +466,17 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Lektion2 - NOT DONE/Opgave2_1.js</url>
+          <url>file://$PROJECT_DIR$/Lektion2/Opgave2_1.js</url>
           <line>60</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Lektion2 - NOT DONE/Opgave2_1.js</url>
+          <url>file://$PROJECT_DIR$/Lektion2/Opgave2_1.js</url>
           <line>9</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Lektion2 - NOT DONE/Opgave2_2.js</url>
+          <url>file://$PROJECT_DIR$/Lektion2/Opgave2_2.js</url>
           <line>19</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
@@ -279,255 +485,272 @@
           <line>8</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Lektion2/Opgave2_1.js</url>
+          <line>69</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Lektion10 NOT DONE/Opgave10_1.js</url>
+          <line>15</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="18" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/funktion_eksempel/scope.js">
+    <entry file="file://$PROJECT_DIR$/Lektion8 NOT DONE/Opgave8_4.js" />
+    <entry file="file://$PROJECT_DIR$/Lektion8 NOT DONE/Opgave8_5_NOTDONE.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="220">
+          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/objekter_eksempel/crud.js">
+    <entry file="file://$PROJECT_DIR$/Lektion9 NOT DONE/regex_eksempel/flag.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/objekter_eksempel/iteration.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/objekter_eksempel/literal.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/objekter_eksempel/metode.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/objekter_eksempel/properties.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/objekter_eksempel/wrapper.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/array_eksempel/array-like.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/array_eksempel/arrays.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/array_eksempel/crud.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/array_eksempel/destructuring.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/array_eksempel/elementer.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/array_eksempel/hullet.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/array_eksempel/iteration.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/array_eksempel/length.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/array_eksempel/metoder.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/array_eksempel/object.js">
+    <entry file="file://$PROJECT_DIR$/Lektion9 NOT DONE/regex_eksempel/alternativer-grupper.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/dom_eksempel/DOM.html">
+    <entry file="file://$PROJECT_DIR$/Lektion10 NOT DONE/prototyper_eksempel/prototyper.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/dom_eksempel/DOM1.html">
+    <entry file="file://$PROJECT_DIR$/Lektion10 NOT DONE/constructor_eksempel/arrow.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/dom_eksempel/DOM2.html">
+    <entry file="file://$PROJECT_DIR$/Lektion10 NOT DONE/constructor_eksempel/counter.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/dom_eksempel/DOM3.html">
+    <entry file="file://$PROJECT_DIR$/Lektion10 NOT DONE/constructor_eksempel/constructor.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/dom_eksempel/global.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/dom_eksempel/opgaver.css">
+    <entry file="file://$PROJECT_DIR$/Lektion10 NOT DONE/constructor_eksempel/person.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4 - NOT DONE/dom_eksempel/Opgave4_1.js" />
-    <entry file="file://$PROJECT_DIR$/Lektion4/dom_eksempel/opgaver.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/dom_eksempel/global.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/dom_eksempel/DOM1.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/dom_eksempel/DOM2.js">
+    <entry file="file://$PROJECT_DIR$/Lektion8 NOT DONE/Opgave8_3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="-186">
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/dom_eksempel/DOM3.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/Opgave4_4.js">
+    <entry file="file://$PROJECT_DIR$/Lektion5/Opgave5_1_5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        <state relative-caret-position="1012">
+          <caret line="46" column="22" lean-forward="true" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/Opgave4_3.js">
+    <entry file="file://$PROJECT_DIR$/Lektion5/Opgave5_1_4.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/Opgave4_2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="400">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lektion4/Opgave4_1.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion3 - NOT DONE/Opgave3_2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion3 - NOT DONE/Opgave3_1.html">
+    <entry file="file://$PROJECT_DIR$/Lektion4/Opgave4_2.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion3 - NOT DONE/Opgave3_2.html">
+    <entry file="file://$PROJECT_DIR$/Lektion4/Opgave4_3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="50" />
+        <state relative-caret-position="-194" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion4/Opgave4_4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion5/Opgave5_1_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/Opgave4_5.js">
+    <entry file="file://$PROJECT_DIR$/Lektion5/Opgave5_1_3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+        <state relative-caret-position="682">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/Opgave4_6.js">
+    <entry file="file://$PROJECT_DIR$/Lektion8 NOT DONE/Opgave8_2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        <state relative-caret-position="-405">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/template.css">
+    <entry file="file://$PROJECT_DIR$/Lektion2/Opgave2_1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="687">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="74" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/Opgave4_6.css">
+    <entry file="file://$PROJECT_DIR$/Lektion2/Opgave2_2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="400">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/template.html">
+    <entry file="file://$PROJECT_DIR$/Lektion2/Opgave2_3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion4/Opgave4_6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/Opgave2_2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="1" lean-forward="true" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/Opgave2_4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/Opgave2_3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="198">
           <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/Opgave2_5.js">
+    <entry file="file://$PROJECT_DIR$/Lektion2/Opgave2_4.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state relative-caret-position="242">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/Opgave2_1.js">
+    <entry file="file://$PROJECT_DIR$/Lektion2/Opgave2_5.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion2/Opgave2_6.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion2/Opgave2_7.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion1/Opgave1_2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion1/Opgave1_3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-62">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        <state relative-caret-position="-744" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion1/Opgave1_4.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion1/Udleveret_BubbleSort.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion1/Opgave1_5.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion1/eksempel/boolsk.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion1/eksempel/const.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion1/eksempel/falsy-truthy.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion1/eksempel/let.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion1/eksempel/lighed.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion1/eksempel/number.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion1/eksempel/omgivelse.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion1/eksempel/semikolon.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion1/eksempel/string.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/Opgave2_6.js">
+    <entry file="file://$PROJECT_DIR$/Lektion1/eksempel/bubbleSort.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion10 NOT DONE/Opgave10_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="34" selection-start-line="34" selection-end-line="36" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion8 NOT DONE/Opgave8_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion10 NOT DONE/Opgave10_2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion2 - NOT DONE/Opgave2_7.js">
+    <entry file="file://$PROJECT_DIR$/Lektion10 NOT DONE/prototyper_eksempel/function.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion10 NOT DONE/Opgave10_3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="4">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion3 - NOT DONE/Opgave3_3.html">
+    <entry file="file://$PROJECT_DIR$/Lektion10 NOT DONE/Opgave10_4.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="66" column="50" selection-start-line="66" selection-start-column="50" selection-end-line="66" selection-end-column="50" />
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lektion3 - NOT DONE/Opgave3_3.css">
+    <entry file="file://$PROJECT_DIR$/Lektion5/Opgave5_1_1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="49" column="18" lean-forward="true" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion5/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion5/template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion5/Opgave5_2_NOTDONE.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="76" column="1" lean-forward="true" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
         </state>
       </provider>
     </entry>
