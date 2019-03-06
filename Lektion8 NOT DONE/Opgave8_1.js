@@ -1,48 +1,51 @@
+let ppl = [{name: "Madeleine", email: "madeleine@gmail.com", telefon : "60653173"},
+    {name: "Steffen", email: "steffen@gmail.com", telefon : "004550607081"},
+    {name: "Douglas", email: "lordDoug@gmail.com", telefon: "No phone, only dog"},
+    {name: "Patrick", email: "not_a_cat@gmail.com", telefon: "00450118999881999119725 3"}];
 
-class Person {
-    constructor(name, email, telefon) {
-        this.name = name;
-        this.email = email;
-        this.telefon = telefon;
-    }
+console.log(ppl);
 
-    getName() {
-        return this.name;
-    }
-
-    getEmail() {
-        return this.email;
-    }
-
-    getTelefon() {
-        return this.telefon;
-    }
-
-    setName(name) {
-        this.name = name;
-    }
-
-    setEmail(email) {
-        this.email = email;
-    }
-
-    setTelefon(telefon) {
-        this.telefon = telefon;
-    }
+ppl[1].email = "slyngel@gmail.com";
 
 
+console.log("----------");
+console.log("----------");
+console.log("----------");
+console.log("----------");
+console.log(ppl);
+console.log("----------");
+console.log("----------");
+console.log("----------");
+console.log("----------");
+danishPhone(ppl, console.log);
 
+console.log("----------");
+console.log("----------");
+console.log("----------");
+console.log("----------");
+addID(ppl);
+console.log("----------");
+console.log("----------");
+console.log("----------");
+console.log("----------");
+console.log(ppl);
+
+
+function danishPhone(list, logger){
+    let l = list.filter((person) => {
+        return person.telefon.startsWith("0045");
+    });
+    logger(l)
 }
 
-let p1 = new Person("Madeleine", "made@gmail.com", "60653173");
-let p2 = new Person("Steffen", "steffen@gmail.com", "Jeg ved ikke");
-let p3 = new Person("Patrick", "bork@gmail.com", "Hello, I am dog");
-let p4 = new Person("Douglas", "lordDouglas@gmail.com", "Bananaphone");
 
-let ppl = [p1, p2, p3, p4];
 
-console.log(ppl[0].getName() + " " + ppl[0].getEmail() + " " + ppl[0].getTelefon());
-ppl[0].setName("Made");
-ppl[0].setEmail("madeleine@gmail.com");
-ppl[0].setTelefon("029510181");
-console.log(ppl[0].getName() + " " + ppl[0].getEmail() + " " + ppl[0].getTelefon());
+
+function addID(peeps) {
+    for (let i = 0; i <peeps.length; i++) {
+        peeps[i].id = i+1;
+
+    }
+
+};
+
