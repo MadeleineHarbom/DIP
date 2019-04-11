@@ -1,8 +1,8 @@
-let url = 'http://localhost:8080/test';
+let url = 'http://localhost:8080/';
 const fetch = require('node-fetch');
 
 fetch(url, {
-    method: "GET" //retunerer promise
+    method: "GET" //TODO fix me :)
 }).then(resultat => {
     if (resultat.status >= 400) //Hvis fejl
         throw new Error(resultat.status);
