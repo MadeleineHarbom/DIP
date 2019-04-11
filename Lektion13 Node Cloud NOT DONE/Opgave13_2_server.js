@@ -21,7 +21,19 @@ http.createServer((request, response) => {
             }).catch(error => console.log("Error: " + error))
     } else {
         console.log("Not intended path");
-        let sti = 'filer' + request.url;
+        let sti = './fil_server_eksempel/filer' + request.url;
+        fs.readFile(sti).then(function (data) {
+            let typez = sti.split(".").pop();
+            console.log("Mah type: " +typez);
+            response.writeHead(200, {'Content-Type' : typez});
+            response.write(data);
+            response.end();
+            
+        }).catch(error => {
+            console.log("Error: " + error)
+            response.write(`<html><body>${error}</body></html>`);
+            response.end();
+        })
         // ...
     }
 }).listen(8080);
