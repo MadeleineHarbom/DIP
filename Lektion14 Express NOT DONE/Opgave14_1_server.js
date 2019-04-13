@@ -4,6 +4,13 @@ const express = require('express');
 const app = express();
 const fetch = require('node-fetch');
 
+function log(request, responce, next) {
+    console.log(request.method + ': ' + request.url);
+    next();
+}
+
+app.use(log);
+
 app.get('/', (req, res) => {
     //res.send("Testies :)");
     fetch(usersUrl)
